@@ -1,21 +1,9 @@
 # LED Blinking Arduino Script
 
-This Arduino script blinks an LED on and off with a delay based on the value read from analog pin 0.
+## Documentation
 
-## Installation:
+For further information and detailed documentation, please refer to the [Documentation](https://docs.arduinodenis.com/github/resources-arduino/arduino-projects/project-5-arduino).
 
-1. Connect an LED to pin 9 on your Arduino board.
-2. Upload the script to your Arduino board.
+## License
 
-## Usage:
-
-The LED connected to pin 9 will blink on and off with a delay determined by the value read from analog pin 0.
-
-## Version 1.0 - 2024-02-18
-
-- Initial release.
-- Implemented basic functionality to blink an LED based on analog pin reading.
-
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
+This script is released under the [MIT License](LICENSE).
